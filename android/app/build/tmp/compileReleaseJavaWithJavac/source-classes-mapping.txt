@@ -1,0 +1,9 @@
+com/reduxtraining/MainApplication.java
+ com.reduxtraining.MainApplication
+ com.reduxtraining.MainApplication$1
+com/reduxtraining/BuildConfig.java
+ com.reduxtraining.BuildConfig
+com/reduxtraining/MainActivity.java
+ com.reduxtraining.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
