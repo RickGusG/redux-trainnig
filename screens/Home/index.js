@@ -1,10 +1,13 @@
 import React from 'react'
-import { View, Text } from 'react-native'
+import { Pressable, View } from 'react-native'
+import { styles } from '../../styles'
 
 const Home = () => {
     return (
-        <View>
-            <Text>Home</Text>
+        <View style={styles.defaultView}>
+            <Pressable>
+                <View style={{backgroundColor: 'red', width: 50, height: 50}}></View>
+            </Pressable>
         </View>
     )
 }
